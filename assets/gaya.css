@@ -2,6 +2,9 @@
     background-color: #1a0e51;
 }
 
+img{
+    margin-top: -1px!important;
+margin-bottom: -1px!important;}
 .divnavAlfa{
     text-transform: uppercase!important;
     position: relative;
