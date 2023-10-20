@@ -1,8 +1,40 @@
-.bg-brand{
+.bg-brand {
     background-color: #1a0e51;
 }
-.navAlfa{padding-top: 0!important; padding-bottom: 0!important
-    ;}
-.kelokan{
-    
+
+.divnavAlfa{
+    text-transform: uppercase!important;
+    position: relative;
 }
+.navAlfa {
+    padding-top: 20px !important;
+    padding-bottom: 0 !important;
+}
+
+.kelokanAtas {
+    position: relative;
+}
+
+.behindNav {
+    top: 0;
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.palingAtas {
+    width: 100%;
+    position: relative;
+}
+
+.palingAtasFig {
+    padding-top: 18%;
+    padding-bottom: 42%;
+    /* 702px/1920px = 0.3656 */
+    display: block;
+    background: url("home/bg.jpeg") no-repeat center top;
+    background-size: cover;
+    margin-bottom: 0;
+}
+
+body{font-family: 'Knockout-HTF53-Heviweight'!important;}
