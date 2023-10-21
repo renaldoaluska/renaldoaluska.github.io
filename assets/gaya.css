@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "Knockout-HTF53-Heviweight";
+    src: url(font/knockout.woff2);
+}
+@font-face {
+    font-family: "Thunderhouse Pro";
+    src: url(font/thunderhouse.woff2);
+}
 img {
     max-width: 100%;
     display: block;
