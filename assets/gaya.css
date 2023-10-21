@@ -59,7 +59,7 @@ img {
     z-index: -1;
   background-image: url("about/bg.jpeg");
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: bottom;
   background-size: cover;
 }
 .bawahKetiga{padding-top: 25vh;}
