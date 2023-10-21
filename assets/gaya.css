@@ -63,6 +63,17 @@ img {
   background-size: cover;
 }
 .bawahKetiga{padding-top: 25vh;}
+
+
+.sectionAvail{
+    top: -20vh;
+    position: relative;
+}
+.sectionProd{
+    top: -35vh;
+    position: relative;
+    z-index: -1;
+}
 img{
     line-height: 0;
     -webkit-user-select: none;
@@ -77,4 +88,15 @@ body{font-family: 'Knockout-HTF53-Heviweight'!important;}
 @media (max-width: 576px){
     h1,h2{font-size: 5vw!important;}
     h1.display-1{font-size: 12vw!important;}
+}
+
+
+.sequel-block.homepage-dual-featured-products .col-12:first-child {
+    background-image: url(product/lz-bg.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.sequel-block.homepage-dual-featured-products .col-12:last-child {
+    background-image: url(product/journey-bg.jpg);
+    background-position: 0 50%;
 }
