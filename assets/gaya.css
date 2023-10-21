@@ -48,7 +48,7 @@ img {
     padding-bottom: 42%;
     /* 702px/1920px = 0.3656 */
     display: block;
-    background: url("home/bg.jpeg") no-repeat center top;
+    background: url("intro/bg.jpeg") no-repeat center top;
     background-size: cover;
     margin-bottom: 0;
 }
