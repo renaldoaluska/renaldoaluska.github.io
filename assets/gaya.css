@@ -51,3 +51,8 @@ img{
 }
 
 body{font-family: 'Knockout-HTF53-Heviweight'!important;}
+
+@media (max-width: 576px){
+    h1,h2{font-size: 5vw!important;}
+    h1.display-1{font-size: 12vw!important;}
+}
