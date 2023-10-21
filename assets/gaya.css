@@ -14,6 +14,9 @@ img {
     background-color: #1a0e51;
 }
 
+.text-brand {
+    color: #1a0e51;
+}
 .divnavAlfa{
     text-transform: uppercase!important;
     position: relative;
@@ -50,6 +53,16 @@ img {
     margin-bottom: 0;
 }
 
+.sectionKetiga{
+    top: -20vh;
+    position: relative;
+    z-index: -1;
+  background-image: url("about/bg.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bawahKetiga{padding-top: 25vh;}
 img{
     line-height: 0;
     -webkit-user-select: none;
