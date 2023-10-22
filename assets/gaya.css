@@ -139,5 +139,14 @@ figcaption.h6 {
 }
 
 .divsecHigh {
-    padding-bottom: 120px;
+    padding-bottom: 20vh;
+}
+
+.prodimg2{
+padding-top: 20vh;
+}
+@media (max-width:768px){
+.prodimg2{
+    padding-top: 12vh;
+}
 }
