@@ -150,3 +150,11 @@ padding-top: 20vh;
     padding-top: 12vh;
 }
 }
+
+.opHov{
+    cursor: pointer;
+    opacity: 0.6;
+}
+.opHov:hover{
+    opacity: 1;
+}
