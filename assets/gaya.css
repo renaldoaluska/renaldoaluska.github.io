@@ -161,7 +161,7 @@ figcaption.h6 {
     opacity: 0.6;
 }
 
-.opHov:hover {
+.opHov:hover, .opHov:active {
     opacity: 1;
 }
 
