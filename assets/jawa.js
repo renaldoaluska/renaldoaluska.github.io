@@ -18,7 +18,7 @@ function funcSeen4() {
 function validateForm() {
     let x = document.forms["formAlfa"]["messageNya"].value;
     if (x.length < 20) {
-      alert("Message must at least contain 20 characters.");
-      return false;
+        alert("Message must at least contain 20 characters.");
+        return false;
     }
-  }
+}
